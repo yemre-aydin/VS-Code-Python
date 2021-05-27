@@ -12,6 +12,11 @@ while secim !="ç":
 print(i)
 genelort=ort/(i-1)    
 print(genelort)
+"""
+i,j=0,0
+while i<4:
+    whilej<4:
+    """
 
 
 
